@@ -85,7 +85,7 @@ Through this project, I learned:
 
 ## Author  
 **Garvit Sharma**  
-Web Development Assignment – B.Tech (CSE)  
+Web Development Assignment – B.Tech (CSE AIML)  
 
 
 
